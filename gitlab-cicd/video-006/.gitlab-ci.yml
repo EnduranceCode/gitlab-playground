@@ -1,8 +1,22 @@
+stages:
+  - build
+  - test
 build_car:
   image: alpine
+  stage: build
   script:
     - echo "Building the car"
     - mkdir build
     - cd build
     - touch car.txt
     - echo "chassis" > car.txt
+    - cat car.txt
+  artifacts:
+    paths:
+      - build/
+test_car:
+  image: alpine
+  stage: test
+  script:
+    - test -f build/car.txt
+    - grep "chassis" build/car.txt

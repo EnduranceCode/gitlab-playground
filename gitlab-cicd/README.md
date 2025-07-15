@@ -17,8 +17,8 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Verifying your GitLab account
     - [x] What is a pipeline?
     - [x] Your first pipeline
-    - [ ] Help! My GitLab CI pipeline is not running.
-    - [ ] Adding pipeline stages
+    - [x] Help! My GitLab CI pipeline is not running.
+    - [x] Adding pipeline stages
     - [ ] Quiz 1: Fundamental GitLab and CI/CD concepts
     - [ ] GitLab CI/CD architecture
     - [ ] GitLab CI/CD architecture (Part 2)
