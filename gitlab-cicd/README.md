@@ -29,11 +29,11 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Manually stopping a pipeline
     - [x] Brief introduction to YAML
     - [x] Safeguarding CI pipelines with effective tests
-    - [ ] Why do jobs and pipelines fail (exit codes)
-    - [ ] Important skills you need to acquire
-    - [ ] What is DevOps?
-    - [ ] Role 1: GitLab CI/CD and DevOps fundamentals
-    - [ ] Conclusion
+    - [x] Why do jobs and pipelines fail (exit codes)
+    - [x] Important skills you need to acquire
+    - [x] What is DevOps?
+    - [x] Role 1: GitLab CI/CD and DevOps fundamentals
+    - [x] Conclusion
 2. Section 2: Continuous Integration (CI) with GitLab (Stages, Test, Reports, Merge Requests)
     - [ ] Introduction to Continuous Integration (CI)
     - [ ] Forking a Git repository
