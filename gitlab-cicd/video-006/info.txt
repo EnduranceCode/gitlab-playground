@@ -1,0 +1,1 @@
+This folder contains the GitLab pipeline developed on the video 6 of the course

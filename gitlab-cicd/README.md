@@ -11,12 +11,12 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
 ## Course Content & Progress
 
 1. Section 1: Introduction to GitLab CI/CD. Fundamental CI/CD concepts & DevOps
-    - [ ] Introduction to the GitLab CI/CD course
-    - [ ] What is GitLab CI/CD?
-    - [ ] GitLab.com account registration
-    - [ ] Verifying your GitLab account
-    - [ ] What is a pipeline?
-    - [ ] Your first pipeline
+    - [x] Introduction to the GitLab CI/CD course
+    - [x] What is GitLab CI/CD?
+    - [x] GitLab.com account registration
+    - [x] Verifying your GitLab account
+    - [x] What is a pipeline?
+    - [x] Your first pipeline
     - [ ] Help! My GitLab CI pipeline is not running.
     - [ ] Adding pipeline stages
     - [ ] Quiz 1: Fundamental GitLab and CI/CD concepts
