@@ -8,8 +8,9 @@ build_car:
     - echo "Building the car"
     - mkdir build
     - cd build
-    - touch car.txt
-    - echo "chassis" > car.txt
+    - echo "chassis" >> car.txt
+    - echo "engine" >> car.txt
+    - echo "wheels" >> car.txt
     - cat car.txt
   artifacts:
     paths:
@@ -20,3 +21,5 @@ test_car:
   script:
     - test -f build/car.txt
     - grep "chassis" build/car.txt
+    - grep "engine" build/car.txt
+    - grep "wheels" build/car.txt

@@ -19,16 +19,16 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Your first pipeline
     - [x] Help! My GitLab CI pipeline is not running.
     - [x] Adding pipeline stages
-    - [ ] Quiz 1: Fundamental GitLab and CI/CD concepts
-    - [ ] GitLab CI/CD architecture
-    - [ ] GitLab CI/CD architecture (Part 2)
-    - [ ] How much does GitLab cost?
-    - [ ] Quiz 2: GitLab architecture quiz
-    - [ ] What is a Linux shell?
-    - [ ] Writing comments in a GitLab pipeline
-    - [ ] Manually stopping a pipeline
-    - [ ] Brief introduction to YAML
-    - [ ] Safeguarding CI pipelines with effective tests
+    - [x] Quiz 1: Fundamental GitLab and CI/CD concepts
+    - [x] GitLab CI/CD architecture
+    - [x] GitLab CI/CD architecture (Part 2)
+    - [x] How much does GitLab cost?
+    - [x] Quiz 2: GitLab architecture quiz
+    - [x] What is a Linux shell?
+    - [x] Writing comments in a GitLab pipeline
+    - [x] Manually stopping a pipeline
+    - [x] Brief introduction to YAML
+    - [x] Safeguarding CI pipelines with effective tests
     - [ ] Why do jobs and pipelines fail (exit codes)
     - [ ] Important skills you need to acquire
     - [ ] What is DevOps?
