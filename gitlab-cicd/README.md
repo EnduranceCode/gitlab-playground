@@ -55,11 +55,11 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Running jobs in parallel
     - [x] Default pipeline stages (.pre, build, test, deploy .post)
     - [x] Publishing a JUnit test report
-    - [ ] Testing the tests (ensure that the tests fail!)
-    - [ ] Quiz 6: The role of unit tests in CI pipelines
-    - [ ] How to integrate changes?
-    - [ ] Configuring Merge Requests
-    - [ ] Making changes through a Merge Request
+    - [x] Testing the tests (ensure that the tests fail!)
+    - [x] Quiz 6: The role of unit tests in CI pipelines
+    - [x] How to integrate changes?
+    - [x] Configuring Merge Requests
+    - [x] Making changes through a Merge Request
     - [ ] Code review and merging changes
     - [ ] Quiz 7: Merge requests
     - [ ] Configuring a code linter
