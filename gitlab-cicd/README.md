@@ -66,7 +66,7 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] How to structure a pipeline?
     - [x] Quiz 8: Understanding code linters
     - [x] Simplifying the pipeline
-    - [ ] Section recap
+    - [x] Section recap
 3. Section 3: Continuous Deployment (CD) with GitLab
     - [ ] Section Overview
     - [ ] Manual deployment
