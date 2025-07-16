@@ -1,6 +1,7 @@
 stages:
   - build
   - test
+  - unit
 build_website:
   image: node:22-alpine
   stage: build
@@ -17,5 +18,11 @@ test_website:
   image: alpine
   stage: test
   script:
-    - ls -la
     - test -f gitlab-cicd/learn-gitlab-app/build/index.html
+unit_tests:
+  image: node:22-alpine
+  stage: unit
+  script:
+    - cd gitlab-cicd/learn-gitlab-app
+    - npm ci
+    - npm run test
