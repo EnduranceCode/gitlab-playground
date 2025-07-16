@@ -53,8 +53,8 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Assignment: Adding a test stage - Solution
     - [x] Running unit tests
     - [x] Running jobs in parallel
-    - [ ] Default pipeline stages (.pre, build, test, deploy .post)
-    - [ ] Publishing a JUnit test report
+    - [x] Default pipeline stages (.pre, build, test, deploy .post)
+    - [x] Publishing a JUnit test report
     - [ ] Testing the tests (ensure that the tests fail!)
     - [ ] Quiz 6: The role of unit tests in CI pipelines
     - [ ] How to integrate changes?

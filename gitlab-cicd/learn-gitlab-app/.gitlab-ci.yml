@@ -25,3 +25,7 @@ unit_tests:
     - cd gitlab-cicd/learn-gitlab-app
     - npm ci
     - npm run test
+  artifacts:
+    when: always
+    reports:
+      junit: gitlab-cicd/learn-gitlab-app/reports/junit.xml
