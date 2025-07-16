@@ -7,6 +7,7 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
 ## Table of Contents
 
 1. [Course Content & Progress](#course-content--progress)
+2. [Folder Structure](#folder-structure)
 
 ## Course Content & Progress
 
@@ -35,8 +36,8 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Role 1: GitLab CI/CD and DevOps fundamentals
     - [x] Conclusion
 2. Section 2: Continuous Integration (CI) with GitLab (Stages, Test, Reports, Merge Requests)
-    - [ ] Introduction to Continuous Integration (CI)
-    - [ ] Forking a Git repository
+    - [x] Introduction to Continuous Integration (CI)
+    - [x] Forking a Git repository
     - [ ] Running the project locally (optional)
     - [ ] Using Docker as a build environment
     - [ ] Choosing an appropriate Docker image
@@ -185,3 +186,21 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
 11. Section 11: Conclusion
     - [ ] Not the end
     - [ ] Bonus lecture
+
+## Folder Structure
+
+### video-004
+
+The folder [`video-004`](./video-004) contains the pipeline that started to be developed with the 4th video
+of this course (*Verifying your GitLab account*).
+
+### video-006
+
+The folder [`video-006`](./video-006) contains the pipeline that started to be developed with the 6th video
+of this course (*Your first pipeline*).
+
+### learn-gitlab-app
+
+The folder [`learn-gitlab-app`](./learn-gitlab-app) contains the cloned
+from the [repository](https://gitlab.com/gitlab-course-public/learn-gitlab-app) as required for the 22nd video
+of this course (*Forking a Git repository*).
