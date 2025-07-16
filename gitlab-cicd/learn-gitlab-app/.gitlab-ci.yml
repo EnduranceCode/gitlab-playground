@@ -1,5 +1,6 @@
 stages:
   - build
+  - test
 build_website:
   image: node:22-alpine
   stage: build
@@ -12,3 +13,9 @@ build_website:
   artifacts:
     paths:
       - gitlab-cicd/learn-gitlab-app/build/
+test_website:
+  image: alpine
+  stage: test
+  script:
+    - ls -la
+    - test -f gitlab-cicd/learn-gitlab-app/build/index.html

@@ -46,11 +46,11 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Quiz 3: Docker as a build environment in GitLab CI/CD
     - [x] Assignment: Publishing build artifacts
     - [x] Assignment: Publishing build artifacts
-    - [ ] Revisiting the GitLab CI/CD architecture
-    - [ ] Quiz 4: GitLab architecture quiz
-    - [ ] Assignment: Adding a test stage
-    - [ ] Quiz 5: Assignment - Adding a test stage - Step-by-step instructions
-    - [ ] Assignment: Adding a test stage - Solution
+    - [x] Revisiting the GitLab CI/CD architecture
+    - [x] Quiz 4: GitLab architecture quiz
+    - [x] Assignment: Adding a test stage
+    - [x] Quiz 5: Assignment - Adding a test stage - Step-by-step instructions
+    - [x] Assignment: Adding a test stage - Solution
     - [ ] Running unit tests
     - [ ] Running jobs in parallel
     - [ ] Default pipeline stages (.pre, build, test, deploy .post)
