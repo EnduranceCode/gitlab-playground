@@ -38,8 +38,8 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
 2. Section 2: Continuous Integration (CI) with GitLab (Stages, Test, Reports, Merge Requests)
     - [x] Introduction to Continuous Integration (CI)
     - [x] Forking a Git repository
-    - [ ] Running the project locally (optional)
-    - [ ] Using Docker as a build environment
+    - [x] Running the project locally (optional)
+    - [x] Using Docker as a build environment
     - [ ] Choosing an appropriate Docker image
     - [ ] Lightweight Docker images (alpine, slim)
     - [ ] Building the project using GitLab
