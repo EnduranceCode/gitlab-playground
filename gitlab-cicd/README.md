@@ -62,7 +62,7 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Making changes through a Merge Request
     - [x] Code review and merging changes
     - [x] Quiz 7: Merge requests
-    - [ ] Configuring a code linter
+    - [x] Configuring a code linter
     - [ ] How to structure a pipeline?
     - [ ] Quiz 8: Understanding code linters
     - [ ] Simplifying the pipeline
