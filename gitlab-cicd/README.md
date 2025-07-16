@@ -60,8 +60,8 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] How to integrate changes?
     - [x] Configuring Merge Requests
     - [x] Making changes through a Merge Request
-    - [ ] Code review and merging changes
-    - [ ] Quiz 7: Merge requests
+    - [x] Code review and merging changes
+    - [x] Quiz 7: Merge requests
     - [ ] Configuring a code linter
     - [ ] How to structure a pipeline?
     - [ ] Quiz 8: Understanding code linters

@@ -8,3 +8,11 @@ This simple web appplication uses React + Vite.
 npm install
 npm run build
 ```
+
+## Testing the project
+
+To run the tests, use th following command:
+
+```
+npm run test
+```
