@@ -43,9 +43,9 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Choosing an appropriate Docker image
     - [x] Lightweight Docker images (alpine, slim)
     - [x] Building the project using GitLab
-    - [ ] Quiz 3: Docker as a build environment in GitLab CI/CD
-    - [ ] Assignment: Publishing build artifacts
-    - [ ] Assignment: Publishing build artifacts
+    - [x] Quiz 3: Docker as a build environment in GitLab CI/CD
+    - [x] Assignment: Publishing build artifacts
+    - [x] Assignment: Publishing build artifacts
     - [ ] Revisiting the GitLab CI/CD architecture
     - [ ] Quiz 4: GitLab architecture quiz
     - [ ] Assignment: Adding a test stage
