@@ -63,9 +63,9 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Code review and merging changes
     - [x] Quiz 7: Merge requests
     - [x] Configuring a code linter
-    - [ ] How to structure a pipeline?
-    - [ ] Quiz 8: Understanding code linters
-    - [ ] Simplifying the pipeline
+    - [x] How to structure a pipeline?
+    - [x] Quiz 8: Understanding code linters
+    - [x] Simplifying the pipeline
     - [ ] Section recap
 3. Section 3: Continuous Deployment (CD) with GitLab
     - [ ] Section Overview

@@ -29,7 +29,7 @@ unit_tests:
     when: always
     reports:
       junit: gitlab-cicd/learn-gitlab-app/reports/junit.xml
-eslint:
+.eslint:
   image: node:22-alpine
   stage: test
   script:
