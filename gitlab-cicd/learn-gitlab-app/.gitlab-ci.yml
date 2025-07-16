@@ -1,5 +1,13 @@
-test_npm:
-  image: alpine
+stages:
+  - build
+build_website:
+  image: node:22-alpine
+  stage: build
   script:
     - node --version
     - npm --version
+    - cd gitlab-cicd/learn-gitlab-app
+    - ls -la
+    - npm ci
+    - npm run build
+    - ls -la
