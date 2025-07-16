@@ -52,7 +52,7 @@ which is presented by [Valentim Despa](https://www.linkedin.com/in/vdespa/).
     - [x] Quiz 5: Assignment - Adding a test stage - Step-by-step instructions
     - [x] Assignment: Adding a test stage - Solution
     - [x] Running unit tests
-    - [ ] Running jobs in parallel
+    - [x] Running jobs in parallel
     - [ ] Default pipeline stages (.pre, build, test, deploy .post)
     - [ ] Publishing a JUnit test report
     - [ ] Testing the tests (ensure that the tests fail!)
